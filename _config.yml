@@ -1,0 +1,7 @@
+title: Seashore Trolley Museum Parts Warehouse
+description: Seashore Trolley Museum Parts Warehouse
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-midnight
+include:
+  - "_pages"
